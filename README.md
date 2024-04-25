@@ -15,18 +15,18 @@ Este script de Python utiliza la biblioteca PyAutoGUI para automatizar el envío
 
 2. Instala PyAutoGUI utilizando pip:
    
-   ```
+
     pip install pyautogui
-```
+
 
 ## Uso
 Asegúrate de tener la ventana de chat abierta en la pantalla.
 Ejecuta el script desde la línea de comandos:
 
 
-   ```
+
    python chat_spammer.py
-```
+
 
 El script moverá el cursor al campo de entrada de texto y enviará el mensaje especificado repetidamente.
 
